@@ -1397,7 +1397,7 @@
             "$ref": "#/components/responses/Unauthorized"
           }
         },
-        "summary": "List shipments",
+        "summary": "List shipments (nightly run 20260910-b9ba2a4c)",
         "tags": [
           "Shipments"
         ]
