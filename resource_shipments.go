@@ -62,7 +62,7 @@ func (s *ShipmentsService) Create(ctx context.Context, body CreateShipmentReques
 	return &out, nil
 }
 
-// List — List shipments (nightly run 20260910-098f53e4)
+// List — List shipments (nightly run 20260910-cdcc24cf)
 //
 // `GET /v1/shipments` (`listShipments`)
 //
