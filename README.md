@@ -83,4 +83,4 @@ client := parceleventsnightly.NewClient(parceleventsnightly.WithRetryPolicy(poli
 
 ## Provenance
 
-Reproducible build — see `.doctorine-sdk.json`. `sdkSha dd9b03deeeed0736301d69674566b9e9bf9a7a7a06f27c3032886e6c49afae2b` · `configSha 0779b2c13c9ba576b3609d8176d473ebfb84a310be289008a309ffd6fefc0288` · `bundleSha f58352648f31596c756e1aa2f79f63167d9d814059db6d2ddb90660db853005b`.
+Reproducible build — see `.doctorine-sdk.json`. `sdkSha 59df13efa6beb4406a61b0131bb2fd7f6adf9f5980eaa5f949406bdc70f11eb6` · `configSha 0779b2c13c9ba576b3609d8176d473ebfb84a310be289008a309ffd6fefc0288` · `bundleSha 6c66388125e092b3b8cb13969e83c1bb6438a8923e3293304e5cd9a93b440ee7`.
