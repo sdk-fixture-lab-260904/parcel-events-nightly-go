@@ -194,7 +194,7 @@ Paginated (`cursor` scheme) — see [pagination.md](pagination.md#listshipmentev
 <a id="listshipments"></a>
 ### GET /v1/shipments
 
-List shipments (nightly run 20260910-098f53e4)
+List shipments (nightly run 20260910-cdcc24cf)
 
 `GET /v1/shipments`
 
